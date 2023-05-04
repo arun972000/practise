@@ -1,0 +1,12 @@
+.box{
+    background-color: aqua;
+    height: 100px;
+    max-width: 100%;
+    margin-top: 10px;
+}
+
+.hi{
+    padding-top: 70px;
+    padding-left: 10px;
+}
+
